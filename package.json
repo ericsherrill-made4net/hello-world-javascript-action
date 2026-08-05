@@ -11,14 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "@actions/core": "^3.0.1",
-    "@actions/github": "^6.0.0"
+    "@actions/github": "^9.1.1"
   },
   "pnpm": {
     "overrides": {
-      "undici@<=7.24.1": "7.24.1"
+      "undici@<=7.28.0": "7.28.0"
     }
   },
   "overrides": {
-    "undici@<=7.24.1": "7.24.1"
+    "undici@<=7.28.0": "7.28.0"
   }
 }
