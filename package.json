@@ -13,11 +13,6 @@
     "@actions/core": "^3.0.1",
     "@actions/github": "^9.1.1"
   },
-  "pnpm": {
-    "overrides": {
-      "undici@<=7.29.0": "7.29.0"
-    }
-  },
   "overrides": {
     "undici@<=7.29.0": "7.29.0"
   }
